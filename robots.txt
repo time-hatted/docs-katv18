@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-m7h7yf.salamcuanwin.sbs/sitemap.xml
